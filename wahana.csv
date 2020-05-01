@@ -1,0 +1,34 @@
+ID_Wahana,Nama_Wahana,Harga_Tiket,Batasan_Umur,Batasan_Tinggi 
+AAA001,Arung Jeram,25000,dewasa,>=170
+AAA002,Boomper Boat,15000,dewasa,>=170
+AAA003,Children Rowing Boat,20000,anak-anak,tanpa batasan
+AAA004,Dino Park,15000,anak-anak,tanpa batasan
+AAA005,Flying Fox,20000,dewasa,tanpa batasan
+AAA006,Green Car,10000,anak-anak,tanpa batasan
+AAA007,Joy Land,10000,semua umur,tanpa batasan
+AAA008,Kolam Renang Mini,10000,anak-anak,tanpa batasan
+AAA009,Mobil Wara-Wiri,15000,anak-anak,tanpa batasan
+AAA0010,Motor ATV,25000,dewasa,tanpa batasan
+AAA011,Mini Gocar,15000,anak-anak,tanpa batasan
+AAA012,Peadle Boat,10000,dewasa,>=170
+AAA013,Penerbangan(Simulasi),50000,dewasa,>=170
+AAA014,Perahu Kayak,10000,dewasa,tanpa batasan
+AAA015,Scooter Drive,10000,semua umur,tanpa batasan
+AAA016,Sepeda Air,10000,semua umur,tanpa batasan
+AAA017,Terapi Ikan,10000,semua umur,tanpa batasan
+AAA018,Trampolin,10000,semua umur,tanpa batasan
+AAA019,Roller Coaster,25000,dewasa,tanpa batasan
+AAA020,Mini Roller Coaster,20000,anak-anak,tanpa batasan
+AAA021,Ice Age Arctic Adventure,30000,semua umur,tanpa batasan
+AAA022,Halilintar,20000,dewasa,>=170
+AAA023,Rumah Miring,15000,semua umur,tanpa batasan
+AAA024,Kora-Kora,20000,dewasa,tanpa batasan
+AAA025,Dunia Cokelat,30000,semua umur,tanpa batasan
+AAA026,Tornado,20000,dewasa,tanpa batasan
+AAA027,Color of Kingdom,15000,anak-anak,tanpa batasan
+AAA028,The Mysterious Land,20000,semua umur,tanpa batasan
+AAA029,Turbo Drop,20000,semua umur,tanpa batasan
+AAA030,Niagara-Gara,15000,semua umur,tanpa batasan
+LAB135,Recursive Cafe,135000,dewasa,tanpa batasan
+PCR120,Hot Stone Cafe,100000,dewasa,tanpa batasan
+IJK123,Kicir-kicir,30000,semua umur,>=170
