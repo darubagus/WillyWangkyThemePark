@@ -1,3 +1,6 @@
+#version 1.0 
+#April 25th 2020
+
 import csv
 import uuid as u
 import hashlib as h
